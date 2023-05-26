@@ -1,10 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+comments,Includes Sill(s),,,,,
+subject,Mine Name(s),true,,DCTERMS.subject,keywords
+stope book, Stope Book,,,,
+volume,Volume,,,,
+sill number,Sill Range,,,,
+township,Township,,,,
+range,Range,,,,
+section,Section,,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
