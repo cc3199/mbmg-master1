@@ -18,14 +18,22 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: MBMG Master
+title: Marion K Jones Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Maps, Reports, and history of M.K. Jones' work
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Marion Kay “M.K.” Jones, graduated from the University of Wyoming in 1956 with a degree in Petroleum Geology. He
+worked for the Carter Oil Company in the Miles City, Montana office before a 3 ½ year stint as an aviator and Lieutenant
+in the U.S. Army. In 1960 he joined Humble Oil as a staff geologist in Billings, Montana, eventually striking out on his
+own as a Consulting Geologist. He formed a company called Discovery Energy and established a respected reputation as
+a wellsite geologist and prospect generator across Montana and North Dakota. Kay served as a past president of the
+Billings Geological Society (later the Montana Geological Society) and wrote several papers for the Society and gave
+numerous conference presentations throughout his career. His understanding of complex geologic correlations ranging
+from the Sweet Grass Arch of Montana to the east flank Mississippian shorelines and subcrops of the Williston Basin in
+North Dakota was unrivaled by his peers."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: Jones; oil; gas; Marion Kay; M.K.; petroleum; geology
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: MBMG Data Preservation
 
@@ -34,7 +42,7 @@ author: MBMG Data Preservation
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: mkjones_metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
