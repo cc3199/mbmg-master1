@@ -14,6 +14,6 @@ The mines in Butte, Montana, rich in base and precious metals, began to take sha
 
 Each book shows all of the working levels and sills of the mines in 6.64’ increments from the shaft collar to the deepest workings represented in each book’s 40.04 acres “footprint.” In addition to illustrating the stopes of the mines, the books also have detailed records of survey points, shaft/raise/winze/drift/crosscut locations, bulkheads, fire doors, and timber sets as well as many other features associated with underground mining at a scale of 1:50.
 
-Through the generosity of New Butte Mining, the Butte-Silver Bow Public Archives, and two grants from the U.S. Geological Survey's (USGS) National Geological and Geophysical Data Preservation Program (NGGDPP), 182 Stope Books have been digitally preserved. The remaining 171 books are owned by another Butte entity. Due to exemplary working relationships, the MBMG has been granted access to scan the final portion of the collection (as time permits) to make the collection whole again in digital format.
+Through the generosity of New Butte Mining, the Butte-Silver Bow Public Archives, Montana Resources, and two grants from the U.S. Geological Survey's (USGS) National Geological and Geophysical Data Preservation Program (NGGDPP), 267 Stope Books have been digitally preserved. Due to exemplary working relationships, the MBMG has been granted access to scan the final portion of the collection (as time permits) to make the collection whole again in digital format.
 
 {% include cb/credits.html %}
